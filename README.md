@@ -1,5 +1,8 @@
 # 📦 Wix Media Ops: V2 API Utility
 
+> **[Self-Contained Workflow Utility]**
+> *A functional Node.js multi-threaded upload utility leveraging the Wix Media Manager V2 API for large-scale e-commerce asset migrations.*
+
 A utility for bulk-uploading media assets to Wix sites via the Wix Media Manager V2 API. Designed for managing large-scale migrations or automated content pipelines on the Wix platform.
 
 - ⚙️ **V2 API Integration**: Logic for authenticated, multipart media uploads to the Wix CDN.
