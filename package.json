@@ -10,7 +10,7 @@
     "path": "^0.12.7",
     "tus-js-client": "^4.3.1"
   },
-  "name": "m2m-wix-uploader",
+  "name": "syncModule-wix-uploader",
   "version": "1.0.0",
   "main": "script.js",
   "type": "module",
